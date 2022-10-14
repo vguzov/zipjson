@@ -2,6 +2,8 @@ import json
 from io import BytesIO
 from zipfile import ZipFile, ZIP_DEFLATED
 
+__version__ = "0.0.1"
+
 
 def dump(obj, fp, *args, json_name="data.json", **kwargs):
     json_str = json.dumps(obj, *args, **kwargs)
