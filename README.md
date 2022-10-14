@@ -1,7 +1,9 @@
 # zipjson - a simple tool to create compressed json files
 
 ## Installation
-`pip install git+https://github.com/vguzov/zipjson.git`
+```bash
+pip install git+https://github.com/vguzov/zipjson.git
+```
 
 ## Usage:
 The following code creates a .zip archive with `data.json` file inside it, containing the serialized data, then reads it
