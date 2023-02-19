@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-pip install git+https://github.com/vguzov/zipjson.git
+pip install zipjson
 ```
 
 ## Usage:
