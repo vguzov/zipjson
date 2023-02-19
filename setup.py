@@ -19,7 +19,7 @@ setup(
     name="zipjson",
     packages=["zipjson"],
     version=version,
-    description="A tool to create compressed json files",
+    description="A tool to create and read compressed JSON files",
     author="Vladimir Guzov",
     author_email="guzov.mail@gmail.com",
     url="https://github.com/vguzov/zipjson",

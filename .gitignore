@@ -1,3 +1,7 @@
 .idea/
 .DS_store
 __pycache__/
+build/
+dist/
+zipjson.egg-info/
+*.pyc

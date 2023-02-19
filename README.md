@@ -1,4 +1,4 @@
-# zipjson - a simple tool to create compressed json files
+# zipjson - a simple tool to create and read compressed JSON files
 
 ## Installation
 ```bash
